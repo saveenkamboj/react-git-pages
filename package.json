@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/saveenkamboj/react-git-pages.git",
   "name": "react-git-pages",
   "version": "0.1.0",
   "private": true,
@@ -11,7 +12,6 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://github.com/saveenkamboj/react-git-pages.git",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
